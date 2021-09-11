@@ -1,4 +1,16 @@
 ## **Python Boot Camp Capstone Project**
+
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub repo size](https://img.shields.io/github/repo-size/Data-Science-East-AFrica/Python-Boot-Camp-Capstone-Project?color=green-yellow&logo=github&logoColor=blue) 
+![GitHub language count](https://img.shields.io/github/languages/count/Data-Science-East-AFrica/Python-Boot-Camp-Capstone-Project?logo=visual-studio-code) 
+![GitHub top language](https://img.shields.io/github/languages/top/Data-Science-East-AFrica/Python-Boot-Camp-Capstone-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/Data-Science-East-AFrica/Python-Boot-Camp-Capstone-Project?style=plastic&color=brightgreen) 
+![Forks](https://img.shields.io/github/forks/Data-Science-East-AFrica/Python-Boot-Camp-Capstone-Project?style=social) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
+
+#### Join DSEA Community on  Twitter
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
+
 ### Table of Contents:
 - [Introduction](#introduction)
 - [Web Application Project](#web-application-project)
