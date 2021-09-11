@@ -1,9 +1,9 @@
 ## **Python Boot Camp Capstone Project**
 ### Table of Contents:
 - [Introduction](#introduction)
-- [Web Application Project](#-web-application-project)
-- [Data Science Project](#-data-science-project)
-  - [Objective](#objective-)
+- [Web Application Project](#web-application-project)
+- [Data Science Project](#data-science-project)
+  - [Objective](#objective)
 
 ### Introduction
 
