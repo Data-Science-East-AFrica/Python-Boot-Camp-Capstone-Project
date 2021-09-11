@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
 #### Join DSEA Community on  Twitter
-[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
+[![image](https://img.shields.io/twitter/follow/DSEAfrica?style=social)](https://twitter.com/DSEAfrica)
 
 ### Table of Contents:
 - [Introduction](#introduction)
@@ -19,7 +19,7 @@
 
 ### Introduction
 
-This capstone project should take a maximum of 7 days.Therefore as a learner, you need to plan yourself well.: 
+This capstone project should take a maximum of 7 days.Therefore as a learner, you need to plan yourself well.
 
 ### Web Application Project
 
@@ -64,4 +64,4 @@ This should be done at an individual level individually.
 
 Submissions  link will be shared later thank you. 
 
-ALL THE BEST
+ALL THE BEST and SUCCESS.
